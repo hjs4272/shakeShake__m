@@ -1,4 +1,4 @@
-if(window.innerWidth<768){
+if(window.innerWidth>768){
     window.location.href = 'https://hjs4272.github.io/shake-shack/'
 }
 
